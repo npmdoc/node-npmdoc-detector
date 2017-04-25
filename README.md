@@ -1,4 +1,7 @@
-# api documentation for  [detector (v2.5.0)](http://spmjs.io/docs/detector/)  [![npm package](https://img.shields.io/npm/v/npmdoc-detector.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-detector) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-detector.svg)](https://travis-ci.org/npmdoc/node-npmdoc-detector)
+# npmdoc-detector
+
+#### basic api documentation for  [detector (v2.5.0)](http://spmjs.io/docs/detector/)  [![npm package](https://img.shields.io/npm/v/npmdoc-detector.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-detector) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-detector.svg)](https://travis-ci.org/npmdoc/node-npmdoc-detector)
+
 #### The module for detect client-side information.
 
 [![NPM](https://nodei.co/npm/detector.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/detector)
